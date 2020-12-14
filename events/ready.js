@@ -7,9 +7,9 @@ var prefix = ayarlar.prefix;
 
 
 module.exports = client => {
-  console.log(``);  
+  console.log(`Bot Aktif!!!`);  
 
-  client.user.setActivity("OgünSert", {
+  client.user.setActivity("01.01.2021 De Sizlerle!", {
   
   });
   //---------YAYIN İÇİN---------
